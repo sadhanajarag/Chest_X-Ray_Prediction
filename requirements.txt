@@ -1,0 +1,11 @@
+bentoml
+torchvision
+joblib
+scikit-learn
+pandas
+numpy
+tqdm
+pip-chill
+wincertstore
+
+-e .
